@@ -1,0 +1,1 @@
+{"name": "business-website", "version": "1.0.0", "description": "Professional Business Website", "scripts": {"dev": "next dev", "build": "next build", "start": "next start", "lint": "next lint"}, "dependencies": {"next": "latest", "react": "latest", "react-dom": "latest", "tailwindcss": "latest", "autoprefixer": "latest", "postcss": "latest"}}
